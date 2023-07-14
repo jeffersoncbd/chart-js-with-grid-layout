@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeffersoncbd/chart-js-with-grid-layout/main/dashboard.png" width="600">
+</p>
+
 # Dashboard utilizando Chart.JS e React-Grid-Layout
 > Created with CodeSandbox
 
